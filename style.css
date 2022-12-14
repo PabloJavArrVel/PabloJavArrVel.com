@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@700&display=swap');
+
+*{
+    overflow-x: hidden;
+
+}
+
+#hero,#space{
+    background-color: black;
+}
+
+
+#art{
+    background-image: url("wallart.jpeg");
+    background-size: cover;
+}
+
+#space{
+    font-family: 'Rajdhani', sans-serif;
+}
